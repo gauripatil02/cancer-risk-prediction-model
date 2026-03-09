@@ -1,0 +1,27 @@
+/* Minimalist Medical Theme */
+.main { background-color: #ffffff; }
+
+h3 { 
+    color: #2C3E50; 
+    font-weight: 400; 
+    text-align: center; 
+    padding-bottom: 20px;
+}
+
+.stNumberInput, .stSelectbox { 
+    margin-bottom: 10px; 
+}
+
+.stButton>button { 
+    width: 100%; 
+    border-radius: 4px; 
+    border: 1px solid #DCE0E3; 
+    background: #F8F9FA; 
+    color: #34495E; 
+    font-weight: 500;
+}
+
+.stButton>button:hover { 
+    border: 1px solid #3498DB; 
+    background: #EBF5FB; 
+}
